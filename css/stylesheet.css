@@ -1,0 +1,11 @@
+body{
+    margin: 0;padding: 0;
+}
+
+.assign{padding: 15px 15px;width: 600px;margin: 0 auto;}
+
+.assign h1{text-align: center;}
+
+.assign dl dt{font-size: 16px;font-weight: 900;}
+
+.assign dl dt,.assign dl dd{margin-bottom: 8px;}
